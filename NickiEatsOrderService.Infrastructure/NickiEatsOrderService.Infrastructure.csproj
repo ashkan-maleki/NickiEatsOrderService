@@ -7,11 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\NickiEatsOrderService.Domain\NickiEatsOrderService.Domain.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.13" />
+      <ProjectReference Include="..\NickiEatsOrderService.Application\NickiEatsOrderService.Application.csproj" />
     </ItemGroup>
 
 </Project>

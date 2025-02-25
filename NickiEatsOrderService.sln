@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NickiEatsOrderService.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NickiEatsOrderService.Application", "NickiEatsOrderService.Application\NickiEatsOrderService.Application.csproj", "{7FD2D8C2-17E5-4659-83C9-9F6919E29866}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NickiEatsOrderService.Infrastructure", "NickiEatsOrderService.Infrastructure\NickiEatsOrderService.Infrastructure.csproj", "{D10101E9-05E4-4F04-894D-8D0758224FDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7FD2D8C2-17E5-4659-83C9-9F6919E29866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FD2D8C2-17E5-4659-83C9-9F6919E29866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FD2D8C2-17E5-4659-83C9-9F6919E29866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10101E9-05E4-4F04-894D-8D0758224FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10101E9-05E4-4F04-894D-8D0758224FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10101E9-05E4-4F04-894D-8D0758224FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10101E9-05E4-4F04-894D-8D0758224FDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
